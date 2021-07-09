@@ -18,6 +18,10 @@ Photos One Piece de tout type
 
 On pourrait mettre des épisodes sur cette page mais il nous faut les droits.
 
-## Discussion
+## Discussions
 
 Discussion entre les différents utilisateurs
+
+## Organisations
+
+Toutes les organisations du manga

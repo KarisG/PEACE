@@ -4,7 +4,7 @@ Site porté sur le manga One Piece et tout son univers !
 
 ## Accueil
 
-![Image d'accueil](https://github.com/[KarisG]/[PEACE]/blob/[imgaccueil]/accueil.png?raw=true)
+![Image d'accueil](https://github.com/[KarisG]/[PEACE]/blob/[img]/accueil.png?raw=true)
 
 ## Histoire
 
